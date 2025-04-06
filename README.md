@@ -13,6 +13,8 @@ JSON-based lightweight storage (no DB needed)
 Glassmorphism + Cyberpunk themed UI
 
 
+
+
 How to run 
 ✅ 1. Make Sure You Have Python Installed
 Ensure Python 3 is installed.
